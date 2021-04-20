@@ -1,0 +1,22 @@
+{
+  "channelRules": {
+    "references": {
+      "notionBaseUrl": "https://www.notion.so/caa0902e59ed4a909a431ae94bcfc8f8?v=8606d8830f424f508624596144da8dff",
+      "messageTrigger": "all",
+      "reactions": {
+        "ack": "floppy_disk",
+        "normalPriority": "heavy_plus_sign",
+        "highPriority": "exclamation",
+        "veryHighPriority": "bangbang",
+        "saveMessage": "inbox_tray",
+        "unsaveMessage": "outbox_tray"
+      },
+      "fieldNames": {
+        "title": "Title",
+        "priority": "Importance",
+        "user": "Created By",
+        "link": "Link"
+      }
+    }
+  }
+}
